@@ -1,0 +1,41 @@
+h1{
+    font-size:109.28px;
+    color: #54514d;
+    font-family: 'Rufina', serif;
+    margin-left: 100px;
+    top: 100px;
+    position: absolute;
+}
+p{
+    font-size: 20px;
+    color: #54514d;
+    font-family: 'Karla', sans-serif;
+    margin-left: 100px;
+    top: 240px;
+    position: absolute;
+}
+button{
+    border: solid 2px black;
+    margin-left: 100px;
+    top: 394px;
+    position: absolute;
+    background-color: transparent;
+    color: black;
+    font-family: 'Karla', sans-serif;
+    width: 150px;
+    padding: 13px;
+}
+.btn{
+    border: solid 2px black;
+    margin-left: 268px;
+    top: 394px;
+    position: absolute;
+    background-color: transparent;
+    color: black;
+    font-family: 'Karla', sans-serif;
+    width: 150px;
+    padding: 13px;
+}
+img{
+    margin-left: 628px;
+}
